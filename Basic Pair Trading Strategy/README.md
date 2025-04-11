@@ -18,8 +18,4 @@ This project implements a mean-reversion pair trading strategy using Coca-Cola (
 ## 📈 Sample Output
 
 ![Z-Score Plot](zscore_plot.png)
-
-## 🧠 Next Steps
-- Add PnL simulation
-- Test for cointegration
-- Try Kalman Filter / ML-based spread modeling
+![Cumulative Returnss](Cumulative_Returnss.png)

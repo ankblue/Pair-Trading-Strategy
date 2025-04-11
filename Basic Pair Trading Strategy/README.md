@@ -18,4 +18,4 @@ This project implements a mean-reversion pair trading strategy using Coca-Cola (
 ## 📈 Sample Output
 
 ![Z-Score Plot](zscore_plot.png)
-![Cumulative Returnss](Cumulative_Returnss.png)
+![Cumulative Returnss](Cumulative_Returns.png)

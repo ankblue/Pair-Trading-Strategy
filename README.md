@@ -23,7 +23,7 @@ This project implements a dynamic **pair trading strategy** using a **Kalman Fil
 - ✅ Fully backtestable strategy pipeline
 
 ---
-![plot]("Kalman Filter-based pair trading strategy"/Plot.png)
+![plot](Kalman%20Filter-based%20pair%20trading%20strategy/Plot.png)
 ## 🔧 Tools & Libraries
 
 - Python 3.x  
